@@ -1,4 +1,4 @@
-token: "lip_hgvo894njvQE4XRMkTDF"    # lichess OAuth2 Token
+token: "lip_XVCsYGb0gpTTibQVIOeW"    # lichess OAuth2 Token
 url: "https://lichess.org/"  # lichess base URL
 
 engine:                      # engine settings
